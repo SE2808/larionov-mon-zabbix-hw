@@ -67,7 +67,7 @@ systemctl enable zabbix-server apache2
 systemctl status zabbix-server.service
 ```
 
-`![Cкриншот авторизации в админке](img/image13.png)`
+![Cкриншот авторизации в админке](img/image13.png)
 
 
 ---
@@ -105,11 +105,11 @@ tail -f /var/log/zabbix-server/zabbix_server.log
 tail -f /var/log/zabbix-agent/zabbix_agentd.log
 ```
 
-`![Cкриншот раздела Hosts, где видно, что агенты подключены к серверу](img/image14.png)`
+![Cкриншот раздела Hosts, где видно, что агенты подключены к серверу](img/image14.png)
 
-`![Cкриншот логов zabbix agent, где видно, что он работает с сервером](img/image15.png)`
+![Cкриншот логов zabbix agent, где видно, что он работает с сервером](img/image15.png)
 
-`![Cкриншот раздела Latest data для обоих хостов, где видны поступающие данные от агентов](img/image16.png)`
+![Cкриншот раздела Latest data для обоих хостов, где видны поступающие данные от агентов](img/image16.png)
 
 
 
