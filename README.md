@@ -119,4 +119,9 @@ tail -f /var/log/zabbix-agent/zabbix_agentd.log
 <img src="img/image16.png" alt="Раздел Latest Data" width="600"/>
 **Изображение 4:** Скриншот раздела Latest Data для обоих хостов, где видны поступающие данные от агентов.
 
+---
 
+## Дополнительно
+
+[Ссылка на полное описание задания]
+(https://docs.google.com/document/d/1Tdc9DgYvVUW59KnfArgN3D5JgcqhdYCY/edit?usp=drive_link&ouid=115067957742774085873&rtpof=true&sd=true)
